@@ -1,0 +1,53 @@
+1. Newton Second Law
+
+	- SET gaya
+	- SET massa
+	- SET percepatan
+
+	- STORE "massa" with 600kg
+	- STORE "percepatan" with 2m/s2
+
+	- CALCULATE "gaya" is "massa" times "percepatan"
+	- DISPLAY "gaya"
+
+------------------------------------------------------------------------------------------------------
+
+2. Tahun Kabisat
+	
+	- SET tahun
+	- STORE "tahun" with any value
+
+	- IF "tahun" MOD 4 EQUAL to 0 AND "tahun" MOD 100 NOT EQUAL to 0
+	- THEN DISPLAY "Tahun Kabisat"
+	- ELSE IF "tahun" MOD 4 EQUAL to 0 AND "tahun" MOD 100 EQUAL to 0 AND "tahun" MOD 400 EQUAL to 0
+	- THEN DISPLAY "Tahun Kabisat"
+	- ELSE DISPLAY "Bukan Tahun Kabisat"
+  
+  ------------------------------------------------------------------------------------------------------
+
+3. Laundry Day
+
+	- SET clothes	
+
+	- STORE "clothes" with 0
+	- WHILE "clothes" < 20
+	- ADD "clothes" by 1
+
+	- IF "clothes" EQUAL to 20 THEN
+	- DO "nyalakan mesin cuci"
+  
+  ------------------------------------------------------------------------------------------------------
+	
+4. Periksa Kuku
+	
+	- SET nailCheck
+	
+	- STORE "nailCheck" with 0
+	- WHILE "nailCheck" < 40
+		- IF "nailCheck" EQUAL to "panjang" THEN
+		- DO "Hukum Murid"
+		- ELSE DO "Puji Murid"
+	- ADD "nailCheck" by 1
+
+		
+	
