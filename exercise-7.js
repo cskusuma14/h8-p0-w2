@@ -1,4 +1,4 @@
-1. Menyusun Barisan Bintang
+//1. Menyusun Barisan Bintang
 
 var rows = 5;
 
@@ -9,7 +9,7 @@ for(var i =0; i<rows; i++)
 
 -------------------------------------------------------
 
-2. Menyusun Barisan Bintang Dengan Nested Looping
+//2. Menyusun Barisan Bintang Dengan Nested Looping
 emp);
 
 var rows = 5;
@@ -25,7 +25,7 @@ for(var i =0; i<rows; i++)
 
 -------------------------------------------------------
 
-3. Menyusun Barisan Tangga Bintang Dengan Nested Looping
+//3. Menyusun Barisan Tangga Bintang Dengan Nested Looping
 
 var rows = 5;
 for(var i =0; i<rows; i++)
