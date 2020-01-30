@@ -1,4 +1,4 @@
-1. Let's Form a Sentence
+//1. Let's Form a Sentence
 
 var word = 'JavaScript';
 var second = 'is';
@@ -12,7 +12,7 @@ console.log(word + " " + second + " " + third + " " + fourth + " " + fifth + " "
 
 ----------------------------------------------------------------------------------------------------------
 
-2. Index Accessing - 1 by 1
+//2. Index Accessing - 1 by 1
 
 var word = 'wow JavaScript is so cool';
 var exampleFirstWord = word[0] + word[1] + word[2];
@@ -28,7 +28,7 @@ console.log('Fifth Word: ' + fifthWord);
 
 ----------------------------------------------------------------------------------------------------------
 
-3. Breaking Sentence (Again) using Substring
+//3. Breaking Sentence (Again) using Substring
 
 var word3 = 'wow JavaScript is so cool';
 var exampleFirstWord3 = word3.substring(0, 3);
@@ -45,7 +45,7 @@ console.log('Fifth Word: ' + fifthWord3);
 
 ----------------------------------------------------------------------------------------------------------
 
-4. Breaking Sentence (yet Again) and Count Each Length
+//4. Breaking Sentence (yet Again) and Count Each Length
 
 var word4 = 'wow JavaScript is so cool';
 var exampleFirstWord4 = word4.substring(0, 3);
