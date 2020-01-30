@@ -1,4 +1,4 @@
-1. Melakukan Looping Menggunakan While
+//1. Melakukan Looping Menggunakan While
 
 var flag = 2;
 console.log("Looping Pertama");
@@ -19,7 +19,7 @@ while(flag > 2)
 
 --------------------------------------------------------------------------
 
-2. Melakukan Looping Menggunakan For
+//2. Melakukan Looping Menggunakan For
 
 console.log("Looping Pertama");
 for(var i=1; i<=20; i++)
@@ -35,7 +35,7 @@ for(var i=20; i>=1; i--)
 
 --------------------------------------------------------------------------
 
-3. Angka Ganjil dan Genap
+//3. Angka Ganjil dan Genap
 
 
 //Looping Ganjil Genap
